@@ -52,7 +52,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1791278057256</value>
+    <value>1791829778697</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -193,10 +193,58 @@
     </odePagStructure>
     <odePagStructure>
       <odePageId>bacfe005-fdea-45dc-9c8c-16d6d2979573</odePageId>
+      <odeBlockId>block-mv5l7t0w-bntzm3y2w</odeBlockId>
+      <blockName>Com treballarem?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>bacfe005-fdea-45dc-9c8c-16d6d2979573</odePageId>
+          <odeBlockId>block-mv5l7t0w-bntzm3y2w</odeBlockId>
+          <odeIdeviceId>idevice-1791829829550-vfhw3wft0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En aquesta seqüència treballarem a partir d'una situació que ens podem trobar en un taller: un vehicle que presenta problemes per arrencar i del qual hem d'esbrinar la possible causa.</p>
+<p>Primer coneixerem els components principals del sistema de càrrega i arrencada i repassarem com funcionen. Després aprendrem a fer comprovacions bàsiques amb el multímetre i a interpretar els valors obtinguts.</p>
+<p>Al llarg de la seqüència trobareu explicacions, imatges, vídeos i activitats interactives que us ajudaran a comprovar si heu entès els continguts. Podreu repetir aquestes activitats sempre que ho necessiteu.</p>
+<p>Finalment, treballareu en grups de dues o tres persones per realitzar una diagnosi inicial sobre un vehicle o maqueta del taller. Haureu de fer les comprovacions, anotar els resultats i justificar quina pot ser la causa del problema.</p>
+<p>L'objectiu és que aprengueu a seguir un procés de diagnosi ordenat, fent les comprovacions necessàries abans de decidir si cal substituir algun component.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1791829829550-vfhw3wft0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En aquesta seqüència treballarem a partir d'una situació que ens podem trobar en un taller: un vehicle que presenta problemes per arrencar i del qual hem d'esbrinar la possible causa.</p>\n<p>Primer coneixerem els components principals del sistema de càrrega i arrencada i repassarem com funcionen. Després aprendrem a fer comprovacions bàsiques amb el multímetre i a interpretar els valors obtinguts.</p>\n<p>Al llarg de la seqüència trobareu explicacions, imatges, vídeos i activitats interactives que us ajudaran a comprovar si heu entès els continguts. Podreu repetir aquestes activitats sempre que ho necessiteu.</p>\n<p>Finalment, treballareu en grups de dues o tres persones per realitzar una diagnosi inicial sobre un vehicle o maqueta del taller. Haureu de fer les comprovacions, anotar els resultats i justificar quina pot ser la causa del problema.</p>\n<p>L'objectiu és que aprengueu a seguir un procés de diagnosi ordenat, fent les comprovacions necessàries abans de decidir si cal substituir algun component.</p>","textFeedbackInput":"Mostra la retroacció","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>bacfe005-fdea-45dc-9c8c-16d6d2979573</odePageId>
       <odeBlockId>block-muv1n5k4-l4wpck328</odeBlockId>
       <blockName>Cas práctic 1: Abans de començar</blockName>
       <iconName></iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureOrder>2</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
