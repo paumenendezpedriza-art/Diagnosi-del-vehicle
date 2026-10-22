@@ -52,7 +52,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1791829778697</value>
+    <value>1792689033845</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -235,6 +235,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1791829829550-vfhw3wft0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En aquesta seqüència treballarem a partir d'una situació que ens podem trobar en un taller: un vehicle que presenta problemes per arrencar i del qual hem d'esbrinar la possible causa.</p>\n<p>Primer coneixerem els components principals del sistema de càrrega i arrencada i repassarem com funcionen. Després aprendrem a fer comprovacions bàsiques amb el multímetre i a interpretar els valors obtinguts.</p>\n<p>Al llarg de la seqüència trobareu explicacions, imatges, vídeos i activitats interactives que us ajudaran a comprovar si heu entès els continguts. Podreu repetir aquestes activitats sempre que ho necessiteu.</p>\n<p>Finalment, treballareu en grups de dues o tres persones per realitzar una diagnosi inicial sobre un vehicle o maqueta del taller. Haureu de fer les comprovacions, anotar els resultats i justificar quina pot ser la causa del problema.</p>\n<p>L'objectiu és que aprengueu a seguir un procés de diagnosi ordenat, fent les comprovacions necessàries abans de decidir si cal substituir algun component.</p>","textFeedbackInput":"Mostra la retroacció","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -490,10 +502,56 @@
     </odePagStructure>
     <odePagStructure>
       <odePageId>page-muv0hh5r-9hslpied8</odePageId>
+      <odeBlockId>block-mvjt6ucc-3o01kcx7c</odeBlockId>
+      <blockName>Components del sistema de càrrega i arrencada</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muv0hh5r-9hslpied8</odePageId>
+          <odeBlockId>block-mvjt6ucc-3o01kcx7c</odeBlockId>
+          <odeIdeviceId>idevice-1792689672813-qlv4hoj06</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>1. Alternador: Genera energia elèctrica quan el motor està en funcionament. Alimenta els sistemes elèctrics del vehicle i permet carregar la bateria.</p>
+<p>2. Bateria: Emmagatzema energia elèctrica i proporciona l'energia necessària per posar en funcionament el motor d'arrencada i alimentar altres sistemes elèctrics.</p>
+<p>3. Motor d'arrencada: És un motor elèctric que fa girar inicialment el motor de combustió perquè pugui començar a funcionar.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792689672813-qlv4hoj06","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>1. Alternador: Genera energia elèctrica quan el motor està en funcionament. Alimenta els sistemes elèctrics del vehicle i permet carregar la bateria.</p>\n<p>2. Bateria: Emmagatzema energia elèctrica i proporciona l'energia necessària per posar en funcionament el motor d'arrencada i alimentar altres sistemes elèctrics.</p>\n<p>3. Motor d'arrencada: És un motor elèctric que fa girar inicialment el motor de combustió perquè pugui començar a funcionar.</p>","textFeedbackInput":"Mostra la retroacció","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-muv0hh5r-9hslpied8</odePageId>
       <odeBlockId>block-muv1x82e-8kfwk3108</odeBlockId>
       <blockName>Pregunta 1</blockName>
       <iconName></iconName>
-      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureOrder>3</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -547,7 +605,7 @@
       <odeBlockId>block-muv2116a-uwyol3agn</odeBlockId>
       <blockName>Pregunta 2</blockName>
       <iconName></iconName>
-      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureOrder>4</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -669,13 +727,20 @@
           <odeIdeviceId>idevice-1791193063838-h2e4ke0zt</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Una de les primeres comprovacions davant d’un problema d’arrencada és verificar l’estat de la bateria.</p>
-<p>Per realitzar una comprovació inicial podem mesurar la tensió entre els seus borns utilitzant un multímetre.</p>
-<p>Procediment bàsic:</p>
-<p>Atura el motor.<br />Desconnecta els principals consumidors elèctrics.<br />Selecciona tensió contínua (V DC) al multímetre.<br />Connecta la punta positiva al born positiu de la bateria.<br />Connecta la punta negativa al born negatiu.<br />Llegeix i registra el valor obtingut.<br />Interpreta el resultat segons les especificacions del fabricant.<br />Com a orientació general, una bateria convencional de 12 V en repòs i correctament carregada acostuma a presentar una tensió pròxima als 12,6 V.</p>
-<p>Aquest valor és orientatiu i no substitueix les especificacions tècniques proporcionades pel fabricant.</p>
+    <p>Objectiu: Comprovar la tensió de la bateria d'un vehicle utilitzant un multímetre.</p>
+<p>Material necessari: Multímetre digital.</p>
+<p>1. Preparació</p>
+<p>1.1 Atura el motor del vehicle.<br />1.2 Desconnecta els principals consumidors elèctrics.<br />1.3 Selecciona la funció de tensió contínua (V DC) al multímetre.</p>
+<p><br />2. Mesura de la tensió</p>
+<p>2.1 Connecta la punta vermella al born positiu (+) de la bateria.<br />2.2 Connecta la punta negra al born negatiu (−).<br />2.3 Observa el valor que apareix a la pantalla.<br />2.4 Anota el resultat obtingut.</p>
+<p><br />3. Interpretació del resultat</p>
+<p>Una bateria convencional de 12 V, en repòs i correctament carregada, acostuma a presentar una tensió pròxima als 12,6 V.</p>
+<p>Aquest valor és orientatiu. Per interpretar correctament el resultat, consulta sempre les especificacions del fabricant.</p>
+<p>4. Comprovació final</p>
+<p>4.1 Respon aquestes preguntes:</p>
+<p>Quina tensió has mesurat?<br />El valor obtingut és coherent amb les especificacions del fabricant?<br />Quina comprovació faries a continuació si detectessis un valor anormal?<br />Important: Abans de fer la mesura, comprova que el multímetre està configurat correctament i evita provocar un curtcircuit entre els borns.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1791193063838-h2e4ke0zt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Una de les primeres comprovacions davant d’un problema d’arrencada és verificar l’estat de la bateria.</p>\n<p>Per realitzar una comprovació inicial podem mesurar la tensió entre els seus borns utilitzant un multímetre.</p>\n<p>Procediment bàsic:</p>\n<p>Atura el motor.<br />Desconnecta els principals consumidors elèctrics.<br />Selecciona tensió contínua (V DC) al multímetre.<br />Connecta la punta positiva al born positiu de la bateria.<br />Connecta la punta negativa al born negatiu.<br />Llegeix i registra el valor obtingut.<br />Interpreta el resultat segons les especificacions del fabricant.<br />Com a orientació general, una bateria convencional de 12 V en repòs i correctament carregada acostuma a presentar una tensió pròxima als 12,6 V.</p>\n<p>Aquest valor és orientatiu i no substitueix les especificacions tècniques proporcionades pel fabricant.</p>","textFeedbackInput":"Mostra la retroacció","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1791193063838-h2e4ke0zt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Objectiu: Comprovar la tensió de la bateria d'un vehicle utilitzant un multímetre.</p>\n<p>Material necessari: Multímetre digital.</p>\n<p>1. Preparació</p>\n<p>1.1 Atura el motor del vehicle.<br />1.2 Desconnecta els principals consumidors elèctrics.<br />1.3 Selecciona la funció de tensió contínua (V DC) al multímetre.</p>\n<p><br />2. Mesura de la tensió</p>\n<p>2.1 Connecta la punta vermella al born positiu (+) de la bateria.<br />2.2 Connecta la punta negra al born negatiu (−).<br />2.3 Observa el valor que apareix a la pantalla.<br />2.4 Anota el resultat obtingut.</p>\n<p><br />3. Interpretació del resultat</p>\n<p>Una bateria convencional de 12 V, en repòs i correctament carregada, acostuma a presentar una tensió pròxima als 12,6 V.</p>\n<p>Aquest valor és orientatiu. Per interpretar correctament el resultat, consulta sempre les especificacions del fabricant.</p>\n<p>4. Comprovació final</p>\n<p>4.1 Respon aquestes preguntes:</p>\n<p>Quina tensió has mesurat?<br />El valor obtingut és coherent amb les especificacions del fabricant?<br />Quina comprovació faries a continuació si detectessis un valor anormal?<br />Important: Abans de fer la mesura, comprova que el multímetre està configurat correctament i evita provocar un curtcircuit entre els borns.</p>","textFeedbackInput":"Mostra la retroacció","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -759,7 +824,7 @@
         <div class="questionsMedia" style="display:none"></div>
 </div>
 ]]></htmlView>
-          <jsonProperties><![CDATA[{"id":"idevice-1791193099318-se9ury2b8","typeGame":"TrueOrFalse","eXeGameInstructions":"<p>Respon totes les preguntes d'aquest qüestionari.</p>","eXeIdeviceTextAfter":"","msgs":{"msgStartGame":"Prem aquí per començar","msgTime":"Temps per pregunta","msgNoImage":"Qüestió sense imatges","msgScoreScorm":"La puntuació no es pot desar ja que aquesta pàgina no forma part de un paquet SCORM.","msgEndGameScore":"Inicieu el joc abans de desar la puntuació.","msgOnlySaveScore":"Només podeu desar la puntuació una vegada!","msgOnlySave":"Només la podeu desar una vegada","msgYouScore":"La seva puntuació","msgAuthor":"Autoria","msgOnlySaveAuto":"La puntuació es desarà després de cada pregunta. Només podeu  jugar una vegada.","msgSaveAuto":"La puntuació es desarà després de cada pregunta de forma automàtica.","msgSeveralScore":"Pots desar la puntuació tantes vegades com vulguis","msgYouLastScore":"La darrera puntuació desada és","msgActityComply":"Ja has fet aquesta activitat.","msgPlaySeveralTimes":"Pots fer aquesta activitat tantes vegades com vulguis","msgUncompletedActivity":"Activitat incompleta","msgSuccessfulActivity":"Activitat. Superada. Puntuació %s","msgUnsuccessfulActivity":"Activitat: No superada. Puntuació %s","msgTypeGame":"Cert o fals","msgFeedback":"Retroacció","msgSuggestion":"Suggerència","msgSolution":"Solució","msgQuestion":"Qüestió","msgTrue":"Veritat","msgFalse":"Mentida","msgOk":"Correcte","msgKO":"Incorrecte","msgShow":"Mostra","msgHide":"Amaga","msgCheck":"Comprova","msgReboot":"Torna-ho a provar","msgScore":"Puntuació","msgWeight":"Pes","msgNext":"Següent","msgPrevious":"Anterior","textButtonScorm":"Desa puntuació"},"questionsRandom":false,"percentageQuestions":100,"isTest":false,"time":0,"attemptsNumber":1,"questionsGame":[{"question":"<p>Per mesurar la tensió d’una bateria de 12 V seleccionem tensió contínua al multímetre.</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>Per mesurar tensió hem de connectar el multímetre en sèrie.</p>","feedback":"<p>La tensió es mesura connectant el multímetre en paral·lel.</p>","suggestion":"","solution":0},{"question":"<p>Una única mesura de tensió sempre és suficient per decidir que una bateria s’ha de substituir.</p>","feedback":"<p>Cal valorar l’estat de càrrega de la bateria, realitzar altres comprovacions i consultar les especificacions del fabricant.</p>","suggestion":"","solution":0},{"question":"<p>La bateria participa de manera important en el procés d’arrencada.</p>","feedback":"","suggestion":"","solution":1}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"evaluation":false,"evaluationID":"","showSlider":false,"ideviceId":"idevice-1791193099318-se9ury2b8"}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"id":"idevice-1791193099318-se9ury2b8","typeGame":"TrueOrFalse","eXeGameInstructions":"<p>Respon totes les preguntes d'aquest qüestionari.</p>","eXeIdeviceTextAfter":"","msgs":{"msgStartGame":"Prem aquí per començar","msgTime":"Temps per pregunta","msgNoImage":"Qüestió sense imatges","msgScoreScorm":"La puntuació no es pot desar ja que aquesta pàgina no forma part de un paquet SCORM.","msgEndGameScore":"Inicieu el joc abans de desar la puntuació.","msgOnlySaveScore":"Només podeu desar la puntuació una vegada!","msgOnlySave":"Només la podeu desar una vegada","msgYouScore":"La seva puntuació","msgAuthor":"Autoria","msgOnlySaveAuto":"La puntuació es desarà després de cada pregunta. Només podeu  jugar una vegada.","msgSaveAuto":"La puntuació es desarà després de cada pregunta de forma automàtica.","msgSeveralScore":"Pots desar la puntuació tantes vegades com vulguis","msgYouLastScore":"La darrera puntuació desada és","msgActityComply":"Ja has fet aquesta activitat.","msgPlaySeveralTimes":"Pots fer aquesta activitat tantes vegades com vulguis","msgUncompletedActivity":"Activitat incompleta","msgSuccessfulActivity":"Activitat. Superada. Puntuació %s","msgUnsuccessfulActivity":"Activitat: No superada. Puntuació %s","msgTypeGame":"Cert o fals","msgFeedback":"Retroacció","msgSuggestion":"Suggerència","msgSolution":"Solució","msgQuestion":"Qüestió","msgTrue":"Veritat","msgFalse":"Mentida","msgOk":"Correcte","msgKO":"Incorrecte","msgShow":"Mostra","msgHide":"Amaga","msgCheck":"Comprova","msgReboot":"Torna-ho a provar","msgScore":"Puntuació","msgWeight":"Pes","msgNext":"Següent","msgPrevious":"Anterior","textButtonScorm":"Desa puntuació"},"questionsRandom":false,"percentageQuestions":100,"isTest":false,"time":0,"attemptsNumber":1,"questionsGame":[{"question":"<p>Per mesurar la tensió d’una bateria de 12 V seleccionem tensió contínua al multímetre.</p>","feedback":"<p>Correcte. Per mesurar la tensió d'una bateria de vehicle hem de seleccionar la funció de tensió contínua (V DC) del multímetre. Les bateries proporcionen corrent continu, per això no hem de seleccionar la funció de tensió alterna (V AC).</p>","suggestion":"","solution":1},{"question":"<p>Per mesurar tensió hem de connectar el multímetre en sèrie.</p>","feedback":"<p>Per mesurar la tensió hem de connectar el multímetre en paral·lel, és a dir, entre els dos punts on volem mesurar la diferència de potencial. En el cas de la bateria, col·loquem la punta vermella al born positiu (+) i la negra al born negatiu (−). La connexió en sèrie s'utilitza habitualment per mesurar la intensitat de corrent.</p>","suggestion":"","solution":0},{"question":"<p>Una única mesura de tensió sempre és suficient per decidir que una bateria s’ha de substituir.</p>","feedback":"<p>Cal valorar l’estat de càrrega de la bateria, realitzar altres comprovacions i consultar les especificacions del fabricant.</p>","suggestion":"","solution":0},{"question":"<p>La bateria participa de manera important en el procés d’arrencada.</p>","feedback":"<p>La bateria és un component fonamental del sistema d'arrencada, ja que proporciona l'energia elèctrica necessària perquè funcioni el motor d'arrencada. Aquest motor fa girar inicialment el motor de combustió fins que es posa en funcionament.</p>","suggestion":"","solution":1}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"evaluation":false,"evaluationID":"","showSlider":false,"ideviceId":"idevice-1791193099318-se9ury2b8"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
