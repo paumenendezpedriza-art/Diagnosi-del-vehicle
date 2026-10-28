@@ -52,7 +52,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1792764847056</value>
+    <value>1793220586571</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -1182,6 +1182,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1792764971082-288pcyehe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Un client porta el seu vehicle al taller perquè des de fa uns dies li costa arrencar. Aquest matí, quan ha intentat posar-lo en marxa, el motor d'arrencada girava molt lentament i finalment no ha aconseguit arrencar.</p>\n<p>En fer una primera comprovació amb el multímetre, amb el motor aturat, obtenim una tensió de 12,1 V als borns de la bateria.</p>\n<p>El client ens pregunta si cal substituir la bateria, però abans de prendre aquesta decisió hem de comprovar què està passant.</p>\n<p>- El vostre repte:</p>\n<p>Imagineu que sou els mecànics encarregats de revisar aquest vehicle. Treballant en parelles, haureu d'investigar quines poden ser les causes del problema i decidir quines comprovacions faríeu per identificar l'avaria.</p>\n<p>No es tracta d'endevinar quina peça està fallant, sinó de seguir un procés de diagnosi i justificar les decisions.</p>\n<p>-Preguntes inicials:</p>\n<p>Què ens indica el símptoma que presenta el vehicle?<br />Quines possibles causes poden explicar aquesta dificultat d'arrencada?<br />És suficient la mesura de 12,1 V per decidir que hem de canviar la bateria? Per què?<br />Quines altres comprovacions faríeu abans de substituir algun component?<br />Objectiu de l'activitat</p>\n<p>Elaborar una proposta de diagnosi justificada, utilitzant els coneixements del sistema de càrrega i arrencada i la informació tècnica disponible.</p>","textFeedbackInput":"Mostra la retroacció","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1241,6 +1253,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1792765103159-ahp58j5h7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Treball en parelles</p>\n<p>A partir del cas pràctic anterior, heu d'elaborar una proposta de diagnosi del vehicle.</p>\n<p>1. Identificació del problema.</p>\n<p>Quins símptomes presenta el vehicle?<br />Quina informació tenim fins ara?<br />Quina informació ens falta per poder identificar l'avaria?</p>\n<p>2. Possibles causes.</p>\n<p>Plantegeu almenys tres possibles causes del problema d'arrencada. Expliqueu breument per què considereu que poden estar relacionades amb els símptomes.</p>\n<p>3. Planificació de les comprovacions.</p>\n<p>Indiqueu quines proves faríeu al taller, en quin ordre i quines eines necessitaríeu.</p>\n<p>4. Interpretació dels resultats.</p>\n<p>Consulteu la informació tècnica disponible i expliqueu què indica la mesura inicial de 12,1 V.</p>\n<p>Valoreu quines altres dades necessitaríeu abans de prendre una decisió.</p>\n<p>5. Proposta de diagnosi.</p>\n<p>Redacteu una conclusió conjunta indicant:</p>\n<p>Quina és la causa que considereu més probable.<br />Quines comprovacions permetrien confirmar-la.<br />Per què no substituiríeu cap component sense fer abans les proves necessàries.<br />6. Posada en comú</p>\n<p>Cada parella explicarà breument les seves conclusions a la resta del grup. Compararem les diferents propostes i comentarem quines comprovacions són més adequades.</p>\n<p>Producte final: Un full de diagnosi amb les hipòtesis, les comprovacions proposades i una conclusió justificada.</p>","textFeedbackInput":"Mostra la retroacció","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1289,6 +1313,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1792765223850-rmp8qt4r3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Abans de proposar una diagnosi, reviseu els continguts del projecte relacionats amb el sistema de càrrega i arrencada.</p>\n<p>Informació que podeu consultar:</p>\n<p>Sistema de càrrega i arrencada: funció de la bateria, l'alternador i el motor d'arrencada.<br />Comprovació de la bateria: ús del multímetre i interpretació de la tensió.<br />Comprovació del sistema de càrrega: funcionament de l'alternador i comprovacions bàsiques.<br />Pistes per orientar la investigació:</p>\n<p>Una bateria amb poca càrrega pot provocar dificultats d'arrencada?<br />Un problema a les connexions elèctriques pot produir símptomes semblants?<br />Quina relació hi pot haver entre el funcionament de l'alternador i l'estat de càrrega de la bateria?<br />Quines comprovacions permetrien diferenciar aquestes possibles causes?<br />Recordeu: una única mesura no sempre és suficient per confirmar una avaria. Cal relacionar els símptomes amb les comprovacions realitzades i consultar les especificacions del fabricant.</p>\n<p>L'objectiu no és encertar una resposta a la primera, sinó justificar el procés que heu seguit per arribar a una conclusió.</p>","textFeedbackInput":"Mostra la retroacció","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1331,6 +1367,71 @@
     <p><img src="{{context_path}}/content/resources/mceclip0.png" /></p>
 </div>]]></htmlView>
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1792766537143-bmbaktm7u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" /></p>","textFeedbackInput":"Mostra la retroacció","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-muv0i6uw-xxvz6y0ta</odePageId>
+      <odeBlockId>block-mvslc2nr-va8xqu5un</odeBlockId>
+      <blockName>Aprenem dels errors: diagnosi d&apos;avaries</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muv0i6uw-xxvz6y0ta</odePageId>
+          <odeBlockId>block-mvslc2nr-va8xqu5un</odeBlockId>
+          <odeIdeviceId>idevice-1793220750710-zvyioyhc6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En un taller mecànic, una diagnosi incorrecta pot provocar la substitució innecessària de peces i una pèrdua de temps i diners.</p>
+<p>- Situació pràctica:</p>
+<p>Un vehicle no arrenca correctament. El mecànic mesura la tensió de la bateria amb el motor aturat i obté un valor de 12,1 V. Sense fer cap altra comprovació, decideix substituir el motor d'arrencada.</p>
+<p>- Treball per parelles:</p>
+<p>Analitzeu aquesta situació i responeu les preguntes següents:</p>
+<p>1. Creieu que el mecànic ha actuat correctament? Per què?<br />2. Quina informació ens proporciona una tensió de 12,1 V?<br />3. Quines comprovacions faríeu abans de substituir qualsevol component?<br />4. Quines conseqüències pot tenir una diagnosi precipitada per al client i per al taller?<br />5. Posada en comú</p>
+<p>Compareu les vostres respostes amb les d'una altra parella i comenteu si heu arribat a les mateixes conclusions.</p>
+<p>- Conclusió:</p>
+<p>Elaboreu una recomanació breu per evitar diagnòstics precipitats en un taller mecànic.</p>
+<p>Recordeu que una única mesura no sempre permet determinar la causa d'una avaria. Cal contrastar les hipòtesis amb les comprovacions adequades abans de prendre una decisió.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793220750710-zvyioyhc6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En un taller mecànic, una diagnosi incorrecta pot provocar la substitució innecessària de peces i una pèrdua de temps i diners.</p>\n<p>- Situació pràctica:</p>\n<p>Un vehicle no arrenca correctament. El mecànic mesura la tensió de la bateria amb el motor aturat i obté un valor de 12,1 V. Sense fer cap altra comprovació, decideix substituir el motor d'arrencada.</p>\n<p>- Treball per parelles:</p>\n<p>Analitzeu aquesta situació i responeu les preguntes següents:</p>\n<p>1. Creieu que el mecànic ha actuat correctament? Per què?<br />2. Quina informació ens proporciona una tensió de 12,1 V?<br />3. Quines comprovacions faríeu abans de substituir qualsevol component?<br />4. Quines conseqüències pot tenir una diagnosi precipitada per al client i per al taller?<br />5. Posada en comú</p>\n<p>Compareu les vostres respostes amb les d'una altra parella i comenteu si heu arribat a les mateixes conclusions.</p>\n<p>- Conclusió:</p>\n<p>Elaboreu una recomanació breu per evitar diagnòstics precipitats en un taller mecànic.</p>\n<p>Recordeu que una única mesura no sempre permet determinar la causa d'una avaria. Cal contrastar les hipòtesis amb les comprovacions adequades abans de prendre una decisió.</p>","textFeedbackInput":"Mostra la retroacció","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -1504,10 +1605,11 @@
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>En grups de 2 o 3 persones, realitzeu una diagnosi inicial del sistema de càrrega i arrencada d’un vehicle o maqueta assignada pel docent.</p>
 <p>Haureu de:</p>
-<p>Fer una inspecció visual.<br />Identificar els components principals.<br />Comprovar la tensió inicial de la bateria.<br />Mesurar la tensió en les condicions indicades pel docent.<br />Comprovar el funcionament del sistema de càrrega.<br />Registrar totes les mesures.<br />Comparar els resultats amb la informació tècnica disponible.<br />Elaborar una hipòtesi de diagnosi.<br />Proposar comprovacions addicionals.<br />Justificar si cal intervenir sobre algun component.<br />Elaboreu una fitxa en què constin:</p>
-<p>Vehicle.<br />Símptoma.<br />Comprovacions realitzades.<br />Valors obtinguts.<br />Interpretació dels resultats.<br />Possible causa.<br />Proposta d’actuació.</p>
+<p>- Fer una inspecció visual.<br />- Identificar els components principals.<br />- Comprovar la tensió inicial de la bateria.<br />- Mesurar la tensió en les condicions indicades pel docent.<br />- Comprovar el funcionament del sistema de càrrega.<br />- Registrar totes les mesures.<br />- Comparar els resultats amb la informació tècnica disponible.<br />- Elaborar una hipòtesi de diagnosi.<br />- Proposar comprovacions addicionals.<br />- Justificar si cal intervenir sobre algun component.</p>
+<p><br />Elaboreu una fitxa en què constin:</p>
+<p>- Vehicle.<br />- Símptoma.<br />- Comprovacions realitzades.<br />- Valors obtinguts.<br />- Interpretació dels resultats.<br />- Possible causa.<br />- Proposta d’actuació.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1791194457431-s4p0fpsbt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En grups de 2 o 3 persones, realitzeu una diagnosi inicial del sistema de càrrega i arrencada d’un vehicle o maqueta assignada pel docent.</p>\n<p>Haureu de:</p>\n<p>Fer una inspecció visual.<br />Identificar els components principals.<br />Comprovar la tensió inicial de la bateria.<br />Mesurar la tensió en les condicions indicades pel docent.<br />Comprovar el funcionament del sistema de càrrega.<br />Registrar totes les mesures.<br />Comparar els resultats amb la informació tècnica disponible.<br />Elaborar una hipòtesi de diagnosi.<br />Proposar comprovacions addicionals.<br />Justificar si cal intervenir sobre algun component.<br />Elaboreu una fitxa en què constin:</p>\n<p>Vehicle.<br />Símptoma.<br />Comprovacions realitzades.<br />Valors obtinguts.<br />Interpretació dels resultats.<br />Possible causa.<br />Proposta d’actuació.</p>","textFeedbackInput":"Mostra la retroacció","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1791194457431-s4p0fpsbt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En grups de 2 o 3 persones, realitzeu una diagnosi inicial del sistema de càrrega i arrencada d’un vehicle o maqueta assignada pel docent.</p>\n<p>Haureu de:</p>\n<p>- Fer una inspecció visual.<br />- Identificar els components principals.<br />- Comprovar la tensió inicial de la bateria.<br />- Mesurar la tensió en les condicions indicades pel docent.<br />- Comprovar el funcionament del sistema de càrrega.<br />- Registrar totes les mesures.<br />- Comparar els resultats amb la informació tècnica disponible.<br />- Elaborar una hipòtesi de diagnosi.<br />- Proposar comprovacions addicionals.<br />- Justificar si cal intervenir sobre algun component.</p>\n<p><br />Elaboreu una fitxa en què constin:</p>\n<p>- Vehicle.<br />- Símptoma.<br />- Comprovacions realitzades.<br />- Valors obtinguts.<br />- Interpretació dels resultats.<br />- Possible causa.<br />- Proposta d’actuació.</p>","textFeedbackInput":"Mostra la retroacció","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1576,6 +1678,52 @@
               <key>cssClass</key>
               <value></value>
             </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-muv0il11-9pzxu7z0g</odePageId>
+      <odeBlockId>block-mvsl8va1-e8ozl6l70</odeBlockId>
+      <blockName>Reflexió final sobre el procés de diagnosi</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muv0il11-9pzxu7z0g</odePageId>
+          <odeBlockId>block-mvsl8va1-e8ozl6l70</odeBlockId>
+          <odeIdeviceId>idevice-1793220601175-19xtc3lzg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Un cop finalitzat el repte pràctic, respon individualment aquestes preguntes:</p>
+<p>1. Què he après sobre el sistema de càrrega i arrencada del vehicle?<br />2. Quina part del procés de diagnosi m'ha resultat més difícil?<br />3. He sabut interpretar correctament les mesures i justificar les comprovacions?<br />4. Com ha anat el treball amb el meu company o companya?<br />5. Què faria diferent si hagués de diagnosticar una avaria semblant?</p>
+<p><br />Objectiu: reflexionar sobre el procés d'aprenentatge, identificar les dificultats i proposar millores per a futures pràctiques de taller.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793220601175-19xtc3lzg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Un cop finalitzat el repte pràctic, respon individualment aquestes preguntes:</p>\n<p>1. Què he après sobre el sistema de càrrega i arrencada del vehicle?<br />2. Quina part del procés de diagnosi m'ha resultat més difícil?<br />3. He sabut interpretar correctament les mesures i justificar les comprovacions?<br />4. Com ha anat el treball amb el meu company o companya?<br />5. Què faria diferent si hagués de diagnosticar una avaria semblant?</p>\n<p><br />Objectiu: reflexionar sobre el procés d'aprenentatge, identificar les dificultats i proposar millores per a futures pràctiques de taller.</p>","textFeedbackInput":"Mostra la retroacció","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
